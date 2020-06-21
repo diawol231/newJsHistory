@@ -31,8 +31,8 @@ answer[0] = prompt("Как ваше имя?", "");
 answer[1] = prompt("Как ваше фамилия?", "");
 answer[2] = prompt("Сколько вам лет?", "");
 console.log(typeof(answer));
-
+*/
 const cotigory= 'toys';      //интерполяция
-console.log(`https://someutr.com/${cotigory}/5`);*/
+console.log(`https://someutr.com/${cotigory}/5`);
 const name = "Ivan";
 alert(`Hi,${name}!`);
